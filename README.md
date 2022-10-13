@@ -4,7 +4,7 @@
 Oracle Linux "Ansible Ready" Packaged by Bmeme
 =========
 
-CentOs "Ansible Ready" images based on [official Oraccle Linux repository](https://hub.docker.com/_/oraclelinux), currently used by Bmeme for its 
+Oracle Linux "Ansible Ready" images based on [official Oracle Linux repository](https://hub.docker.com/_/oraclelinux), currently used by Bmeme for its 
 `molecule` tests during Ansible Role development.
 
 ## What is contained in the images
