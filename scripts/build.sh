@@ -5,8 +5,8 @@
 # $ scripts/build.sh [PHP_PRETTY_VERSION] [OS_VERSION] [PHP_TYPE]
 #
 # where:
-# OS_MAJOR: major version of CentOs ex: 7
-# OS_MAJOR_MINOR_VERSION: major.minor version of CentOs ex: 7.9
+# OS_MAJOR: major version of OL ex: 8
+# OS_MAJOR_MINOR_VERSION: major.minor version of OL ex: 8.6
 
 set -o errexit
 set -o nounset

@@ -10,7 +10,7 @@ on:
     - cron: "00 0 * * 0"
 
 jobs:
-  ol7:
+  ol8:
     runs-on: ubuntu-latest
 
     steps:

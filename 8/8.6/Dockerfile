@@ -10,7 +10,7 @@ env LC_CTYPE "en_US.UTF-8"
 env LC_ALL "en_US.UTF-8"
 env LANG "en_US.UTF-8"
 
-# Install systemd -- See https://hub.docker.com/_/centos/
+# Install systemd -- See https://hub.docker.com/_/oraclelinux/
 RUN (cd /lib/systemd/system/sysinit.target.wants/; for i in *; do [ $i == systemd-tmpfiles-setup.service ] || rm -f $i; done); \
 rm -f /lib/systemd/system/multi-user.target.wants/*;\
 rm -f /etc/systemd/system/*.wants/*;\
