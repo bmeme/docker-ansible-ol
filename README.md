@@ -18,7 +18,8 @@ Oracle Linux "Ansible Ready" images based on [official Oracle Linux repository](
 * python3-pip 
 
 ## Supported tags and respective `Dockerfile` links
-- `8.6`, `8`, `latest` [Dockerfile](https://github.com/bmeme/docker-ansible-ol/blob/main/8/8.6/Dockerfile)
+- `9.0`, `9`, `latest` [Dockerfile](https://github.com/bmeme/docker-ansible-ol/blob/main/9/9.0/Dockerfile)
+- `8.6`, `8` [Dockerfile](https://github.com/bmeme/docker-ansible-ol/blob/main/8/8.6/Dockerfile)
 
 ## Credits
 This project is a contribution of [Bmeme :: The Digital Factory](http://www.bmeme.com).
